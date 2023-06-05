@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+.reto{
+    margin:0 2% 0 0;
+}
+h5,h4,h3,h2{
+    text-align: center;
+    padding: 0.8rem;
+    margin: 0;
+}
+#card1{
+    border: solid 2px blue;
+}
+#card2{
+    border: solid 2px skyblue;
+}
+#card3{
+    border: solid 2px orange;
+}
+#card1:hover{
+    background-color: blue;
+    color: white;
+}
+#card2:hover{
+    background-color: skyblue;
+    color: white;
+}
+#card3:hover{
+    background-color: orange;
+    color: white;
+}
+.pago{
+    background: skyblue;
+}
